@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /*
- *
- * 
+ * so basically
+ * here i my code
  */
 
 int main(void)
