@@ -1,7 +1,12 @@
 #include <stdio.h>
 
-/*
- * main - prints the alphabet in lowercase followed by the alphabet in uppe followed by the alphabet in upperr
+/**
+ * main - Entry point
+ *
+ * This program prints all single digit numbers of base 10
+ * starting from 0, followed by a new line using only the
+ * putchar function.
+ *
  * Return: Always 0 (Success)
  */
 
