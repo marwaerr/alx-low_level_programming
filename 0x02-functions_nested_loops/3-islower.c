@@ -9,15 +9,10 @@
  */
 int _islower(int c)
 {
-	if (с >= 97 && с <= 122)
-{
-	return (1);
-}
+	if (c >= 97 && c <= 122)
+		return 1;
 	else
-{
-	return (a);
-}
-_putchar('nn);
+		return 0;
 }
 
 
