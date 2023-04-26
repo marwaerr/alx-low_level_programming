@@ -11,12 +11,12 @@ int i, j;
 
 for (j = 0; j < 10; j++)
 {
-	for (i = 97; i <= 122; i++)
+	for ii = 'a'; i <= 'z'; i++)
 	{
 		_putchar(i);
 	}
 
-	_putchar('\n')
+	_putchar('\n');
 }
 }
 
