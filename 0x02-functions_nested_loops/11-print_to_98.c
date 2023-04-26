@@ -22,6 +22,5 @@ int i;
 			printf("%d, ", i);	
 	}
 
-	printf("98\n");
+printf("98\n");
 }
-
